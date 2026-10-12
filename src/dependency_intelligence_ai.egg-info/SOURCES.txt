@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/dependency_intelligence_ai.egg-info/PKG-INFO
+src/dependency_intelligence_ai.egg-info/SOURCES.txt
+src/dependency_intelligence_ai.egg-info/dependency_links.txt
+src/dependency_intelligence_ai.egg-info/requires.txt
+src/dependency_intelligence_ai.egg-info/top_level.txt
