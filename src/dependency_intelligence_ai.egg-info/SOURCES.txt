@@ -8,4 +8,7 @@ src/dependency_intelligence_ai.egg-info/dependency_links.txt
 src/dependency_intelligence_ai.egg-info/requires.txt
 src/dependency_intelligence_ai.egg-info/top_level.txt
 src/dependency_intelligence_ai/schemas/scan.py
-tests/test.py
+tests/test_async_mock.py
+tests/test_main.py
+tests/test_mock_basics.py
+tests/test_osv_client.py
